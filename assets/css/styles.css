@@ -1,0 +1,37 @@
+body {
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  color: white;
+  padding: 0.5rem;
+  text-align: center;
+}
+header nav ul {
+  list-style: none;
+  padding: 0;
+}
+header nav ul li {
+  display: inline;
+  margin: 0 1rem;
+}
+header nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+header nav ul li a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 1rem;
+}
+main h1,
+main h2 {
+  color: black;
+}
+
+/*# sourceMappingURL=styles.css.map */
