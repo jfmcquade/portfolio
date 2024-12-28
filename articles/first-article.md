@@ -1,6 +1,9 @@
 ---
 layout: default
-title: "My First Article"
+title: "Cultural Highlights of 2024"
 ---
-# My First Article
-This is the content of the article.
+# Cultural Highlights of 2024
+## Example
+Example 1
+## Example 2
+Example 2
