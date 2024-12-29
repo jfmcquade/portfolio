@@ -1,0 +1,58 @@
+// General Styling
+body {
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  color: #333;
+  padding: 1rem;
+}
+
+header {
+  position: fixed;
+}
+
+// Main Content Area
+main {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: #fff;
+
+  img {
+    width: 100%;
+  }
+}
+
+// Headings
+h1,
+h2,
+h3,
+h4 {
+  color: #222;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+h2 {
+  margin-top: 3.5rem;
+}
+
+// Paragraphs
+p {
+  margin: 1rem 0;
+}
+
+// Links
+a {
+  color: #fb55da;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Lists
+ul,
+ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
