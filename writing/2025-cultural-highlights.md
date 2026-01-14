@@ -22,6 +22,7 @@ title: "Cultural Highlights of 2025"
 
 ## Gigs
 
+- Bob Dylan @ Frist Direct Arena, Leeds
 - Hayden Pedigo @ St Michael's, Manchester
 - John Early @ Soho Theatre Walthamstow, London
 - Johnny Jewel @ The Savoy, Heaton Moor
