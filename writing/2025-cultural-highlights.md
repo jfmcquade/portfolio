@@ -5,6 +5,14 @@ title: "Cultural Highlights of 2025"
 
 # Cultural Highlights of 2025
 
+## Gigs
+
+- ANOHNI @ Primavera Porto / Glastonbury
+- Bob Dylan @ First Direct Arena, Leeds
+- Hayden Pedigo @ St Michael's, Manchester
+- Joseph Allread @ Bruk, Stockport
+- Rich(ard) Dawson @ Stoller Hall, Manchester
+
 ## Music
 
 - [Big Thief – Double Infinity](https://bigthief.bandcamp.com/album/double-infinity)
@@ -20,14 +28,6 @@ title: "Cultural Highlights of 2025"
 - Pillion
 - Sly Lives! (aka The Burden of Black Genius)
 - Weapons
-
-## Gigs
-
-- ANOHNI @ Primavera Porto / Glastonbury
-- Bob Dylan @ First Direct Arena, Leeds
-- Hayden Pedigo @ St Michael's, Manchester
-- Joseph Allread @ Bruk, Stockport
-- Rich(ard) Dawson @ Stoller Hall, Manchester
 
 ## Misc
 
